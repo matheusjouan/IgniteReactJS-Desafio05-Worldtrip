@@ -1,0 +1,43 @@
+// Estilização dos botões (prev/next)
+.swiper-button-prev,
+.swiper-button-next {
+   color: #FFBA08;
+
+   &::after {
+    @media (max-width: 30em) {
+      font-size: 28px;
+    }
+   }
+ }
+
+ .swiper-button-prev {
+   left: 42px;
+
+   @media (max-width: 30em) {
+     left: 15px;
+   }
+ }
+
+ .swiper-button-next {
+  right: 42px;
+
+  @media (max-width: 30em) {
+    right: 15px;
+  }
+}
+
+// Estilização da paginação
+.swiper-pagination-bullet {
+  width: 16px;
+  height: 16px;
+  color: #999;
+  background: #999;
+  opacity: 1;
+
+
+}
+
+.swiper-pagination-bullet-active {
+  color: #FFBA08;
+  background: #FFBA08;
+}
