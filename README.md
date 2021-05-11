@@ -5,11 +5,9 @@ Aplicação desenvolvida durante o Ignite de ReactJS da Rocketseat, no qual houv
 Foi utilizado também o JSON-Server para simular os dados da API utilizado na aplicação.
 
 <p align="center">
-<img src="https://github.com/matheusjouan/IgniteReactJS-Desafio05-Worldtrip/blob/main/public/github/worldtrip.png" width="320px"/>
-<p align="center"><i>GoBarber.</i></p>
+<img src="https://github.com/matheusjouan/IgniteReactJS-Desafio05-Worldtrip/blob/main/public/github/worldtrip.png" width="720px"/>
 </p>
 
----
 
 ## :rocket: Tecnologias Utilizadas
 
